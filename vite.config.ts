@@ -104,8 +104,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg', 'safari-pinned-tab.svg'],
       manifest: {
-        name: 'Vitesse',
-        short_name: 'Vitesse',
+        name: '宁波美食文化',
+        short_name: '宁波美食文化',
         theme_color: '#ffffff',
         icons: [
           {
